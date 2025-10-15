@@ -4,6 +4,7 @@
 
 Écris une fonction `compterOccurrencesLettre`qui détermine le nombre de fois qu’une lettre donnée apparaît dans un mot.
 Le mot et la lettre à rechercher sont tous deux définis directement dans le code.
+La lettre recherchée est prise en compte, qu'elle soit en majuscule ou en minuscule.
 
 **Signature de la fonction :**
 
